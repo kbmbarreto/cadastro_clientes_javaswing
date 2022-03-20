@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/jars/mysql-connector-java-8.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/jars/mssql-jdbc-9.2.1.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/jars/mssql-jdbc-9.2.1.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/jars/mssql-jdbc-9.2.1.jre15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/jars/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

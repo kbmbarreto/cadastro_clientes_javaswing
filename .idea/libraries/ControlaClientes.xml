@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ControlaClientes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/dist/ControlaClientes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="view1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/src/br/com/mca/view/PesquisaView.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ControlaClientes/src/br/com/mca/view/ClienteView.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
